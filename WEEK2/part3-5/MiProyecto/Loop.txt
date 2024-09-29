@@ -1,0 +1,40 @@
+using System;
+
+class Loop
+{
+    static void Main(string[] args)
+    {
+
+        Random randomGenerator = new Random();
+        int numero = randomGenerator.Next(1, 11);
+
+
+/*
+        Console.Write("What is the magic number? ");
+        string? input = Console.ReadLine();
+*/
+
+        //if (int.TryParse(input, out int numero))
+        //{
+            Console.Write("What is your guess? ");
+            int nNumero = int.Parse(Console.ReadLine());
+
+
+            while(nNumero != numero){
+                if(nNumero > numero){
+                    Console.WriteLine("Lower");
+                }else{
+                    Console.WriteLine("Higher");
+                }
+                Console.Write("What is your guess? ");
+                nNumero = int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("You guessed it!");
+        //}
+        // else
+        // {
+        //     Console.WriteLine("El valor ingresado no es un número válido.");
+        // }
+    }
+}
+
