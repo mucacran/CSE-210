@@ -36,11 +36,11 @@ class Program
                 int index = int.Parse(Console.ReadLine());
                 journal.RemoveEntry(index);
             }
-             else if (choice == "4")
+            else if (choice == "4")
             {
                 journal.SaveEntries();
             }
-             else if (choice == "5")
+            else if (choice == "5")
             {
                 journal.LoadEntries();
             }
