@@ -51,12 +51,6 @@ class Journal
             string line;
             while ((line = reader.ReadLine()) != null)
             {
-                //string textLine = reader.ReadLine(); // Asume que la siguiente línea es el texto de la entrada
-                //string[] dateParts = line.Split('-'); // Divide la línea para obtener la fecha
-                //string date = dateParts[0].Trim(); // Limpia los espacios
-
-
-                //Entry newEntry = new Entry("textLine", line);
                 string[] part = line.Split("~~");
                 Entry newEntry = new Entry();
 
