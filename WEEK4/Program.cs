@@ -4,20 +4,54 @@ class Program
 {
     static void Main(string[] args)
     {
-        Fraction f1 = new Fraction();
-        Console.WriteLine(f1.GetFractionString());
-        Console.WriteLine(f1.GetDecimalValue());
+        Journal journal = new Journal();
+        PromptGenerator promptGenerator = new PromptGenerator();
 
-        Fraction f2 = new Fraction(5);
-        Console.WriteLine(f2.GetFractionString());
-        Console.WriteLine(f2.GetDecimalValue());
+        Console.WriteLine("Welcome to the Journal Program!");
 
-        Fraction f3 = new Fraction(3, 4);
-        Console.WriteLine(f3.GetFractionString());
-        Console.WriteLine(f3.GetDecimalValue());
+        while (true)
+        {
+            Console.WriteLine("Please select one of the following choise:");
+            Console.WriteLine("1. Add entry\n2. Display entries\n3. Remove entry\n4. Save entry\n5. Load entry\n6. Quit");
+            Console.Write("What would you like to do? ");
+            string choice = Console.ReadLine();
 
-        Fraction f4 = new Fraction(1, 3);
-        Console.WriteLine(f4.GetFractionString());
-        Console.WriteLine(f4.GetDecimalValue());
+            if (choice == "1")
+            {
+                string prompt = promptGenerator.GetRandomPrompt();
+                Console.WriteLine(prompt);
+                Console.Write("Your response: ");
+                string userInput = Console.ReadLine();
+
+                Entry newEntry = new Entry(prompt, userInput);
+                journal.AddEntry(newEntry);
+            }
+            else if (choice == "2")
+            {
+                journal.DisplayEntries();
+            }
+            else if (choice == "3")
+            {
+                Console.Write("Enter the index of the entry to remove: ");
+                int index = int.Parse(Console.ReadLine());
+                journal.RemoveEntry(index);
+            }
+            else if (choice == "4")
+            {
+                journal.SaveEntries();
+            }
+            else if (choice == "5")
+            {
+                journal.LoadEntries();
+            }
+            else if (choice == "6")
+            {
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Invalid choice.");
+            }
+        }
     }
 }
