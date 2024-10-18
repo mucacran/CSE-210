@@ -1,0 +1,15 @@
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\bin\Debug\net9.0\Develop03.exe
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\bin\Debug\net9.0\Develop03.deps.json
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\bin\Debug\net9.0\Develop03.runtimeconfig.json
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\bin\Debug\net9.0\Develop03.dll
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\bin\Debug\net9.0\Develop03.pdb
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\obj\Debug\net9.0\Develop03.GeneratedMSBuildEditorConfig.editorconfig
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\obj\Debug\net9.0\Develop03.AssemblyInfoInputs.cache
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\obj\Debug\net9.0\Develop03.AssemblyInfo.cs
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\obj\Debug\net9.0\Develop03.csproj.CoreCompileInputs.cache
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\obj\Debug\net9.0\Develop03.sourcelink.json
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\obj\Debug\net9.0\Develop03.dll
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\obj\Debug\net9.0\refint\Develop03.dll
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\obj\Debug\net9.0\Develop03.pdb
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\obj\Debug\net9.0\Develop03.genruntimeconfig.cache
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Develop03\obj\Debug\net9.0\ref\Develop03.dll
