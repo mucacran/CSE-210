@@ -1,0 +1,15 @@
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\bin\Debug\net9.0\Fraction.exe
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\bin\Debug\net9.0\Fraction.deps.json
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\bin\Debug\net9.0\Fraction.runtimeconfig.json
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\bin\Debug\net9.0\Fraction.dll
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\bin\Debug\net9.0\Fraction.pdb
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\obj\Debug\net9.0\Fraction.GeneratedMSBuildEditorConfig.editorconfig
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\obj\Debug\net9.0\Fraction.AssemblyInfoInputs.cache
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\obj\Debug\net9.0\Fraction.AssemblyInfo.cs
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\obj\Debug\net9.0\Fraction.csproj.CoreCompileInputs.cache
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\obj\Debug\net9.0\Fraction.sourcelink.json
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\obj\Debug\net9.0\Fraction.dll
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\obj\Debug\net9.0\refint\Fraction.dll
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\obj\Debug\net9.0\Fraction.pdb
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\obj\Debug\net9.0\Fraction.genruntimeconfig.cache
+F:\SERGIO\BYUi\SemestreDel2024FinDeAno\CSE-210_Programming_with_Classes\CSE-210\WEEK5\Fraction\obj\Debug\net9.0\ref\Fraction.dll
